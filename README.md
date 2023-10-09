@@ -1,22 +1,5 @@
 <h2 title="hehehe"> Hey 👋, I'm Bhumit!</h2>
 
-<a href="">
-  <img align="left" alt="" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
-</a>
-<a href="">
-  <img align="left" alt="" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
-</a>
-<a href="">
-  <img align="left" alt="" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
-</a>
-
-<br />
-<br />
-<!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaipatel248&label=Profile%20views&color=0e75b6&style=flat" alt="jaipatel248" /> </p> -->
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=)](https://git.io/typing-svg)
-
 <!-- **About Me!**
 
 
@@ -40,13 +23,4 @@
 
 
 
-<div align="center" >
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=patel-bhumit&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Bhumit's GitHub Stats">
- </div>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patel-bhumit8&count_private=true&theme=radical" alt="jaipatel248" />
 
-
------
-
-
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=patel-bhumit&count_private=true&theme=radical" alt="jaipatel248" />
