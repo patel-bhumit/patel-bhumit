@@ -1,26 +1,16 @@
-<h2 title="hehehe"> Hey 👋, I'm Bhumit!</h2>
+# Hi there 👋, I'm [Your Name] 🚀
 
-<!-- **About Me!**
+I'm a Computer Science student who is passionate about writing code, solving problems, and continuous learning.
 
+```python
+class SoftwareDeveloper:
+    def __init__(self):
+        self.name = "[Your Name]"
+        self.role = "Computer Science Student"
+        self.language_spoken = ["en_US", "[Another_Language]"]
 
-- 👨🏽‍💻 I’m currently a ISE Undergrad student at RNS Institute of Technology, Bangalore
-- 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts. 
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [phoenix2810@protonmail.com](mailto:phoenix2810@protonmail.com). -->
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
 
-
-
-<!-- **Languages and Tools:**  
-
-
-<code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
-<code><img height="20" src="https://img.icons8.com/nolan/96/ethereum.png"></code> Javascript
-
-<code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C++
-<code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
-
-<code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT -->
-
-
-
-
+me = SoftwareDeveloper()
+me.say_hi()
