@@ -9,7 +9,6 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patel-bhumit&label=Profile%20views&color=64afdd&style=flat" alt="patel-bhumit" /> </p>
 
 - 🔭 I’m currently working on **Sorting Visualizer**
 
