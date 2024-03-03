@@ -13,19 +13,6 @@
 
 ###
 
-
-- 🔭 I’m currently working on **Sorting Visualizer**
-
-- 🌱 I’m currently learning **Data Structure, OOP**
-
-- 👯 I’m looking to collaborate on **Pathfinding Visualizer**
-
-- 👨‍💻 All of my projects are available at [https://patel-bhumit.github.io/Portfolio-2024/](https://patel-bhumit.github.io/Portfolio-2024/)
-
-- 💬 Ask me about **React, Javascript, C#**
-
-- 📫 How to reach me **bhumit667@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bhumitkumar-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhumitkumar-patel" height="30" width="40" /></a>
